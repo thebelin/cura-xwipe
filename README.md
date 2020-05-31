@@ -1,7 +1,7 @@
 cura-xwipe
 ==========
 
-A Cura plugin for running a nozzle cleaner during prints on the X axis arm of a 3D printer
+A Cura postprocessing plugin for running a nozzle cleaner during prints on the X axis arm of a 3D printer outside the bed area.
 
 # Installation
 Move XGantryWipe.py to the Cura /plugins/PostProcessingPlugin/scripts/ folder
